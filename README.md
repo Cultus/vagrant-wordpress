@@ -13,5 +13,5 @@ and visit http://192.168.33.10
 
 # Disclaimer
 
-This repository is intended only for development purpose.
-If you want more secure environment, use http://vccw.cc/ instead.
+This repository is for development use only
+If you want more secure environment, see http://vccw.cc/ instead.
