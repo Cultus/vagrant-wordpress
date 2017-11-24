@@ -1,6 +1,6 @@
-# What's this repo
+# What's this repository
 
-you can build a wordpress site on typical LAMP environment with this repo. Default OS is Ubuntu 16.04 LTS.
+This repository provides Vagrantfile and provisioning shell script for building a wordpress site on typical LAMP stack. Default OS is Ubuntu 16.04 LTS.
 
 # Usage
 
@@ -9,6 +9,7 @@ git clone https://github.com/Cultus/vagrant-wordpress.git
 cd vagrant-wordpress
 vagrant up
 ```
+and visit http://192.168.33.10
 
 # Disclaimer
 
